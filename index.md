@@ -11,3 +11,4 @@ description: Advanced Functional Programming
 * [Type inference](type_inference.html)
 * [GADTs (part 1)](GADTs-trees.html)
 * [GADTs (part 2)](GADTs-json.html)
+* [Generic programming](generic_programming.html)
