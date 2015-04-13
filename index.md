@@ -12,3 +12,4 @@ description: Advanced Functional Programming
 * [GADTs (part 1)](GADTs-trees.html)
 * [GADTs (part 2)](GADTs-json.html)
 * [Generic programming](generic_programming.html)
+* [Staging (part 1)](staging.html)
