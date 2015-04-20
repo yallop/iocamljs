@@ -14,3 +14,5 @@ description: Advanced Functional Programming
 * [Generic programming](generic_programming.html)
 * [Monads (part 1)](monads.html)
 * [Staging (part 1)](staging.html)
+* [Staging (part 2)](staging2.html)
+* [Staging (part 3)](staging3.html)
